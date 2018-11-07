@@ -54,7 +54,7 @@
       transform: translate3d(0, 0, 0); }
     .menu-branding .portrait {
       width: 250px;
-      height: 250;
+      height: 250px;
       background: url("../img/portrait.jpg");
       border-radius: 50%;
       border: solid 3px #eece1a; }
@@ -70,7 +70,7 @@
     position: relative;
     font-size: 30px;
     text-transform: uppercase;
-    padding: 1 rem 0;
+    padding: 1rem 0;
     font-weight: 300;
     color: #fff;
     text-decoration: none;
@@ -126,7 +126,7 @@
 
 body {
   background: #444;
-  color: whitesmoke;
+  color: #fff;
   height: 100%;
   margin: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
