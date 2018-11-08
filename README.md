@@ -1,2 +1,2 @@
-# modern_portfolio
-Buiding a responsive modern portfolio website, using HTML, SASS/CSS and VANILLA JAVASCRIPT.
+# modern responsive portfolio
+Build a clean, responsive, modern portfolio using HTML, SASS/CSS and VANILLA JAVASCRIPT.
