@@ -1,5 +1,5 @@
 {
-  "name": "modern_portfolio",
+  "name": "responsive-modern-portfolio",
   "version": "1.0.0",
   "description": "Responsive Modern Portfolio Website",
   "main": "index.js",
@@ -15,7 +15,7 @@
     "Website",
     "Portfolio"
   ],
-  "author": "Joh Maina",
+  "author": "JohSire",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/johsire/modern_portfolio/issues"

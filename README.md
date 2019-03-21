@@ -1,2 +1,2 @@
-# modern_portfolio
-Buiding a responsive modern portfolio website, using HTML and SASS/CSS.
+# Responsive Modern Portfolio
+Buiding a responsive modern portfolio website, using HTML, CSS-SASS & Media Queries.
